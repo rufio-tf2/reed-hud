@@ -10,7 +10,7 @@ I mostly use the default HUD. I've only modified these parts:
 
 Due to the removal of the `extendfreeze` command, I'm trying a modified version of KBNHud's minimal class selection screen.
 
-The changes that I made to the screen are to anchor it to the right of the screen to get it out of the way, and I swapped the custom fonts to built-in fonts.
+The changes that I made to the screen are to anchor it to the left side of the screen to get it out of the way, and I swapped the custom fonts to built-in fonts.
 
 <img src="docs/classselection-2.png" alt="Image of new Class Selection screen">
 
