@@ -1,9 +1,18 @@
 # Team Fortress 2 HUD
 
-I mostly use the default HUD. I've only modified two parts:
+I mostly use the default HUD. I've only modified these parts:
 
 - 32-Player Scoreboard
 - Font-size of healing target name plate
+- **NEW** Modified Class Selection of [KBNHud (by Jotunn)](https://gamebanana.com/mods/26847)
+
+### Class Selection
+
+Due to the removal of the `extendfreeze` command, I'm trying a modified version of KBNHud's minimal class selection screen.
+
+The changes that I made to the screen are to anchor it to the right of the screen to get it out of the way, and I swapped the custom fonts to built-in fonts.
+
+<img src="docs/classselection-2.png" alt="Image of new Class Selection screen">
 
 ### 32-Player Scoreboard
 
